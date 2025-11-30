@@ -1,0 +1,98 @@
+{
+  "programming_languages": [
+    "Python", "JavaScript", "Java", "C++", "C#", "C", "Go", "Golang", "Rust", "Ruby", "PHP", "Swift", "Kotlin", "TypeScript",
+    "Scala", "R", "MATLAB", "Perl", "Shell", "Bash", "PowerShell", "Objective-C", "Dart", "Lua", "Haskell", "Elixir", "Clojure",
+    "F#", "Julia", "VB.NET", "Visual Basic", "Assembly", "COBOL", "Fortran", "Groovy", "SQL", "PL/SQL", "T-SQL"
+  ],
+  "web_frameworks": [
+    "React", "Angular", "Vue", "Vue.js", "Svelte", "Next.js", "Nuxt.js", "Gatsby", "Express", "Express.js", "Node.js", "Nest.js",
+    "Django", "Flask", "FastAPI", "Spring", "Spring Boot", "ASP.NET", ".NET", "Ruby on Rails", "Rails", "Laravel", "Symfony",
+    "CodeIgniter", "jQuery", "Backbone.js", "Ember.js", "Meteor", "Blazor", "Phoenix", "Gin", "Echo", "Fiber"
+  ],
+  "mobile_development": [
+    "React Native", "Flutter", "Ionic", "Xamarin", "SwiftUI", "Android", "iOS", "Kotlin Multiplatform", "Cordova", "PhoneGap",
+    "NativeScript", "Expo"
+  ],
+  "databases": [
+    "MySQL", "PostgreSQL", "MongoDB", "Redis", "SQLite", "Oracle", "Microsoft SQL Server", "SQL Server", "MariaDB", "Cassandra",
+    "DynamoDB", "CouchDB", "Neo4j", "Firebase", "Firestore", "Elasticsearch", "InfluxDB", "TimescaleDB", "Couchbase", "HBase",
+    "BigQuery", "Snowflake", "Redshift", "Azure SQL", "Cosmos DB", "RethinkDB", "ArangoDB", "Memcached", "RocksDB", "LevelDB"
+  ],
+  "cloud_platforms": [
+    "AWS", "Amazon Web Services", "Azure", "Microsoft Azure", "GCP", "Google Cloud Platform", "Google Cloud", "Heroku", "DigitalOcean",
+    "Linode", "Vultr", "IBM Cloud", "Oracle Cloud", "Alibaba Cloud", "Cloudflare", "Netlify", "Vercel", "Render", "Railway",
+    "Fly.io", "AWS Lambda", "Azure Functions", "Google Cloud Functions", "EC2", "S3", "RDS", "ECS", "EKS", "CloudFormation",
+    "CloudFront", "Route 53", "API Gateway", "SQS", "SNS", "Kinesis", "Elastic Beanstalk"
+  ],
+  "devops_tools": [
+    "Docker", "Kubernetes", "K8s", "Jenkins", "GitLab CI", "GitHub Actions", "CircleCI", "Travis CI", "Terraform", "Ansible",
+    "Chef", "Puppet", "Vagrant", "Helm", "ArgoCD", "Prometheus", "Grafana", "Datadog", "New Relic", "Splunk", "ELK Stack",
+    "Elasticsearch", "Logstash", "Kibana", "Nginx", "Apache", "HAProxy", "Consul", "Vault", "Nomad", "Rancher", "OpenShift",
+    "Bamboo", "TeamCity", "Spinnaker", "Octopus Deploy"
+  ],
+  "version_control": [
+    "Git", "GitHub", "GitLab", "Bitbucket", "SVN", "Subversion", "Mercurial", "Perforce", "CVS", "Azure DevOps", "TFS"
+  ],
+  "testing_tools": [
+    "Jest", "Mocha", "Chai", "Jasmine", "Pytest", "JUnit", "TestNG", "Selenium", "Cypress", "Playwright", "Puppeteer",
+    "WebDriverIO", "Robot Framework", "Cucumber", "SpecFlow", "Postman", "SoapUI", "JMeter", "LoadRunner", "Gatling",
+    "Locust", "K6", "Appium", "Detox", "XCTest", "Espresso", "PHPUnit", "RSpec", "Capybara", "Enzyme", "React Testing Library",
+    "Vue Test Utils", "Karma", "Protractor"
+  ],
+  "data_science_ml": [
+    "TensorFlow", "PyTorch", "Keras", "Scikit-learn", "NumPy", "Pandas", "Matplotlib", "Seaborn", "Plotly", "SciPy",
+    "XGBoost", "LightGBM", "CatBoost", "NLTK", "spaCy", "Gensim", "Hugging Face", "Transformers", "OpenCV", "YOLO",
+    "Detectron", "JAX", "MXNet", "Caffe", "Theano", "Statsmodels", "Prophet", "MLflow", "Kubeflow", "Airflow",
+    "Apache Spark", "PySpark", "Dask", "Rapids", "CUDA", "cuDNN", "Jupyter", "JupyterLab", "Google Colab", "Tableau",
+    "Power BI", "Looker", "D3.js", "Apache Kafka", "Hadoop", "Hive", "Pig", "HBase", "Mahout", "H2O.ai", "DataRobot"
+  ],
+  "design_tools": [
+    "Figma", "Adobe XD", "Sketch", "InVision", "Zeplin", "Adobe Photoshop", "Adobe Illustrator", "Adobe After Effects",
+    "Blender", "Maya", "3ds Max", "Cinema 4D", "Unity", "Unreal Engine", "Framer", "Principle", "ProtoPie"
+  ],
+  "project_management": [
+    "Jira", "Confluence", "Trello", "Asana", "Monday.com", "ClickUp", "Notion", "Linear", "Azure Boards", "Basecamp",
+    "Slack", "Microsoft Teams", "Discord", "Zoom", "Miro", "Mural", "FigJam"
+  ],
+  "backend_technologies": [
+    "REST API", "GraphQL", "gRPC", "WebSocket", "SOAP", "Microservices", "Serverless", "Message Queue", "RabbitMQ",
+    "Apache Kafka", "Redis Pub/Sub", "NATS", "ZeroMQ", "OAuth", "JWT", "SAML", "OpenID Connect", "LDAP", "Active Directory"
+  ],
+  "frontend_technologies": [
+    "HTML", "HTML5", "CSS", "CSS3", "SASS", "SCSS", "LESS", "Styled Components", "Tailwind CSS", "Bootstrap", "Material-UI",
+    "Ant Design", "Chakra UI", "Semantic UI", "Bulma", "Foundation", "Webpack", "Vite", "Rollup", "Parcel", "Babel",
+    "ESLint", "Prettier", "PostCSS", "Redux", "MobX", "Zustand", "Recoil", "Context API", "RxJS", "Apollo Client", "SWR",
+    "React Query", "Axios", "Fetch API", "WebRTC", "Service Workers", "PWA"
+  ],
+  "security_tools": [
+    "OWASP", "Burp Suite", "Metasploit", "Nmap", "Wireshark", "Kali Linux", "Snort", "Nessus", "Qualys", "Fortify",
+    "SonarQube", "Checkmarx", "Veracode", "SAST", "DAST", "Penetration Testing", "Ethical Hacking", "SSL/TLS", "VPN",
+    "Firewall", "IDS", "IPS", "WAF", "SIEM", "Zero Trust", "IAM"
+  ],
+  "other_technologies": [
+    "API Development", "RESTful Services", "Agile", "Scrum", "Kanban", "CI/CD", "Continuous Integration", "Continuous Deployment",
+    "TDD", "Test-Driven Development", "BDD", "Behavior-Driven Development", "OOP", "Object-Oriented Programming", "Functional Programming",
+    "Design Patterns", "SOLID Principles", "Clean Code", "Refactoring", "Code Review", "Pair Programming", "Distributed Systems",
+    "System Design", "Scalability", "Performance Optimization", "Caching", "Load Balancing", "High Availability", "Fault Tolerance",
+    "CAP Theorem", "Event-Driven Architecture", "Domain-Driven Design", "DDD", "CQRS", "Event Sourcing", "Blockchain", "Smart Contracts",
+    "Web3", "Ethereum", "Solidity", "IoT", "Raspberry Pi", "Arduino", "Edge Computing", "5G", "AR", "VR", "Augmented Reality",
+    "Virtual Reality", "Computer Vision", "NLP", "Natural Language Processing", "Machine Learning", "Deep Learning", "AI",
+    "Artificial Intelligence", "Data Mining", "Big Data", "Data Engineering", "ETL", "Data Pipeline", "Data Warehouse",
+    "Data Lake", "Data Mesh", "Real-time Processing", "Stream Processing", "Batch Processing", "Lambda Architecture", "Kappa Architecture"
+  ],
+  "soft_skills": [
+    "Communication", "Teamwork", "Leadership", "Problem Solving", "Critical Thinking", "Creativity", "Time Management",
+    "Adaptability", "Collaboration", "Mentoring", "Presentation", "Documentation", "Technical Writing", "Stakeholder Management",
+    "Client Facing", "Cross-functional", "Remote Work", "Analytical Skills", "Attention to Detail", "Self-motivated",
+    "Proactive", "Initiative", "Ownership", "Accountability"
+  ],
+  "methodologies": [
+    "Agile", "Scrum", "Kanban", "Waterfall", "Lean", "Six Sigma", "DevOps", "DevSecOps", "GitOps", "Site Reliability Engineering",
+    "SRE", "Extreme Programming", "XP", "Feature-Driven Development", "Crystal", "Unified Process"
+  ],
+  "certifications": [
+    "AWS Certified", "Azure Certified", "Google Cloud Certified", "Certified Kubernetes Administrator", "CKA", "CKAD", "CKS",
+    "PMP", "CISSP", "CEH", "CompTIA Security+", "CompTIA Network+", "CompTIA A+", "RHCE", "RHCSA", "Oracle Certified",
+    "Microsoft Certified", "Salesforce Certified", "Scrum Master", "CSM", "PSM", "SAFe", "ITIL", "TOGAF"
+  ]
+}
