@@ -4,6 +4,22 @@ Resume Coach AI is an end-to-end platform that helps jobseekers improve their re
 
 **Quick description:** AI-powered resume assistant: parse resumes and job posts, suggest ATS optimizations, match candidates to roles, and simulate interview feedback with explainable recommendations.
 
+## Screenshots
+<img width="1900" height="923" alt="Screenshot 2025-12-05 032153" src="https://github.com/user-attachments/assets/be28e5a2-2346-4067-959e-f5e335677ffb" />
+
+<img width="1888" height="917" alt="Screenshot 2025-12-05 032233" src="https://github.com/user-attachments/assets/6817032c-ff6a-4a95-b54f-6725d47f89f7" />
+
+<img width="1881" height="906" alt="Screenshot 2025-12-05 032256" src="https://github.com/user-attachments/assets/0a9dee19-7f68-4409-9aa7-a2f7e87ec4f3" />
+
+<img width="1890" height="908" alt="Screenshot 2025-12-05 032309" src="https://github.com/user-attachments/assets/3f752a5b-82f7-4d2b-bbe5-3343888a0f31" />
+
+<img width="1891" height="913" alt="Screenshot 2025-12-05 032318" src="https://github.com/user-attachments/assets/1db9f63a-7279-48cf-b424-8f45e19f18b6" />
+
+<img width="1902" height="910" alt="Screenshot 2025-12-05 032329" src="https://github.com/user-attachments/assets/db04a6fb-ad83-4623-bd62-34d57635642a" />
+
+
+
+
 ## Contents
 
 - **`frontend/`** — React application (Vite) for uploading resumes, viewing suggestions, and running interview simulations.
