@@ -67,11 +67,4 @@ uvicorn app:app --reload --port 8000
 
 This is a student project for Gen AI course at FAST University.
 
-## 📄 License
 
-MIT License
-
-## 👨‍💻 Author
-
-[Muhammad Hamdan Rauf]
-FAST University - Semester 7
